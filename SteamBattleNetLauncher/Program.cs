@@ -26,7 +26,7 @@ namespace SteamBattleNetLauncher {
             {"ODIN", new string[]{"ODIN", "Call of Duty: MW 2019"}},
             {"LAZR", new string[]{"LAZR", "Call of Duty: MW 2 Campaign Remastered"}},
             {"FORE", new string[]{"FORE", "Call of Duty: Vanguard"}},
-            {"AUKS", new string[]{"AUKS", "Call of Duty: MW2"}
+            {"AUKS", new string[]{"AUKS", "Call of Duty: MW2"}},
             {"WLBY", new string[]{"WLBY", "Crash Bandicoot 4: It's About Time"}},
         };
 
