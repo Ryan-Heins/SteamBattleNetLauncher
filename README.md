@@ -39,16 +39,17 @@ Diablo II: Resurrected | OSI | Untested
 Diablo III | D3 | Game launches, Status updated, Overlay works
 Hearthstone | WTCG | Game launches, Status updated, Overlay works
 Heroes of the Storm | HERO | Game launches, No Status, No Overlay
-Overwatch | PRO | Game launches, Status updated, Overlay works
+Overwatch 2 | PRO | Game launches, Status updated, Overlay works
 Starcraft | S1 | Untested
 Starcraft 2 | S2 | Game launches
 Warcraftt III: Reforged | W3 | Untested
 World of Warcraft | WOW | Untested
-World of Warcraft Classic + BC | WOWC | Untested
+Wrath of the Lich King Classic + World of Warcraft Classic | WOWC | Untested
 Call of Duty: Black Ops - Coold War | ZEUS | Untested
 Call of Duty: Black Ops 4 | VIPR | Untested
 Call of Duty: MW 2019 | ODIN | Untested
 Call of Duty: MW 2 Campaign Remastered | LAZR | Untested
+Call of Duty: MW 2 | AUKS | Untested
 Call of Duty: Vanguard | FORE | Untested
 Crash Bandicoot 4: It's About Time | WLBY | Untested
 

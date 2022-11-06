@@ -5,6 +5,7 @@ using System.Windows.Forms;
 using System.Diagnostics;
 using System.Management;
 using System.Text;
+using System.Windows.Forms.VisualStyles;
 
 namespace SteamBattleNetLauncher {
     static class Program {
@@ -14,17 +15,18 @@ namespace SteamBattleNetLauncher {
             {"D3", new string[]{"D3", "Diablo III"}},
             {"WTCG", new string[]{"WTCG", "Hearthstone"}},
             {"HERO", new string[]{"Hero", "Heroes of the Storm"}},
-            {"PRO", new string[]{"Pro", "Overwatch"}},
+            {"PRO", new string[]{"Pro", "Overwatch 2"}},
             {"S1", new string[]{"S1", "Starcraft"}},
             {"S2", new string[]{"S2", "Starcraft 2"}},
             {"W3", new string[]{"W3", "Warcraft III: Reforged"}},
             {"WOW", new string[]{"WoW", "World of Warcraft"}},
-            {"WoWC", new string[]{"WoWC", "World of Warcraft Classic + BC"}},
+            {"WoWC", new string[]{"WoWC", "Wrath of the Lich King Classic + World of Warcraft Classic"}},
             {"ZEUS", new string[]{"ZEUS", "Call of Duty: Black Ops - Cold War"}},
             {"VIPR", new string[]{"VIPR", "Call of Duty: Black Ops 4"}},
             {"ODIN", new string[]{"ODIN", "Call of Duty: MW 2019"}},
             {"LAZR", new string[]{"LAZR", "Call of Duty: MW 2 Campaign Remastered"}},
             {"FORE", new string[]{"FORE", "Call of Duty: Vanguard"}},
+            {"AUKS", new string[]{"AUKS", "Call of Duty: MW2"}
             {"WLBY", new string[]{"WLBY", "Crash Bandicoot 4: It's About Time"}},
         };
 
